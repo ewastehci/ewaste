@@ -1,7 +1,7 @@
 # E-waste
 Welcome to our resources on E-waste!
 
-We are a group of 4 members from Hwa Chong Institution comprising of Zachary, Shalom, Zixuan, JavieChr creating a resource about E-waste.
+We are a group of 4 members from Hwa Chong Institution comprising of Zachary, Shalom, Zixuan, Javier creating a resource about E-waste.
 
 We appreciate your visit to our repository! Thank you for your support! If possible, please share this repository/our website (in progress) with your friends/family! 
 
